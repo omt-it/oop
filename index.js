@@ -31,7 +31,7 @@ function calculate(nummer_1, nummer_2, rechenart) {
 
 var meinErgebnis = calculate(4, 66, "plus")
 
-console.log(meinErgebnis)
+console.log("neue Version")
 
 
 app.listen(3000)
